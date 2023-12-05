@@ -1,6 +1,6 @@
 # the #1 vape mod for bedwars
 
-**Socials**<br>
+## Socials
 **[Discord](https://discord.gg/B5hKEKQ83a)**<br>
 **[YouTube](https://www.youtube.com/@0prime)**<br>
 
@@ -12,7 +12,7 @@
 ```
 
 
-## People:
+## Developers
 
 + <b>0prime \[[Discord](https://discord.com/users/1095127276099752078)\]</b>
     + Owner
