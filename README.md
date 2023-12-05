@@ -23,7 +23,9 @@
     + Makes and fixes 80% of the issues
 + <b>luckii \[[Discord](https://discord.com/users/900857825788583956)\]</b>
     + :\)
-+ <b>inumgaming \[?\]</b>
++ <b>inumgaming \[[Discord](https://discord.com/users/1170324143015727148)\]</b>
+    + Contributor
++ <b>faggot \[[Discord](https://discord.com/users/1128579930586877962)\]</b>
     + Contributor
 
 ## Features
